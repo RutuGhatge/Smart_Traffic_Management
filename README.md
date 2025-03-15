@@ -90,4 +90,3 @@ Upon successful login, the **main dashboard** will appear.
 
 🎉 **And we are done!** 🙌  
 Your ANPR & ATCC System is now up and running. 🚀
-```
