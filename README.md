@@ -1,4 +1,4 @@
-# **ANPR & ATCC System**
+# **Smart Traffic Management System**
 
 ## **Overview**
 This project is an **Automatic Number Plate Recognition (ANPR)** and **Automated Traffic Control & Compliance (ATCC)** system leveraging **YOLOv8** and **YOLOv9** for real-time vehicle monitoring.  
