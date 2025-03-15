@@ -91,8 +91,3 @@ Upon successful login, the **main dashboard** will appear.
 🎉 **And we are done!** 🙌  
 Your ANPR & ATCC System is now up and running. 🚀
 ```
-
-This README file is **well-structured, formatted, and easy to follow**.  
-You can **directly copy and paste** it into your `README.md` file.  
-
-Let me know if you need any modifications! 😊
